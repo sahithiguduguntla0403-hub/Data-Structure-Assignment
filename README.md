@@ -58,10 +58,10 @@ Implementing queue and circular queue
 Solving real-world problems using data structures
 Writing menu-driven programs in C
 ## Author
-Name:G.Sahithi
-Roll no:66
-Course name:data structure and algorithm
-assignment description:
+# Name:G.Sahithi
+# Roll no:66
+# Course name:data structure and algorithm
+# Assignment description:
    This assignment is about basic data structures like stack and queue. I have written C programs to reverse a string, check balanced parentheses, and find the next greater element using stack. I also created programs to simulate a printer queue and implement a circular queue with different operations. This assignment helped me understand how stack and queue work in a simple way.
 ## License
 This project is for educational purposes.
